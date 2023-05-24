@@ -18,13 +18,15 @@ if response.status_code == 200:
     
     for li in list_items:
         h3 = li.find('h3', attrs={'data-ga': 'card-title'})
-        
+
+        description_div = li.find('div', class_='hidden md:block')
+
         a_elements = li.find_all('a', href=lambda value: value and value.startswith("/tracks/"))
-        
+
         tracks = [a.text.strip() for a in a_elements]
 
-        if h3:
-            data.append({'name': h3.text.strip(), 'tracks': tracks})
+        if h3 and description_div:
+            data.append({'name': h3.text.strip(), 'description': description_div.text.strip(), 'tracks': tracks})
     
     with open('data.json', 'w') as f:
         json.dump(data, f)
