@@ -4,22 +4,7 @@
     "description": "Le Wagon is a global tech training provider that offers full-time, in-person and online bootcamps in Web Development, Data Science, and Data Analytics. Le Wagon also offers part-time courses in Web Analytics, Python  Machine Learning, Growth  Data Automation, and Data Analytics Essentials. Le Wagon is aimed at individuals seeking to change careers or acquire specific skills. Le Wagon\u2019s training has helped more than 18,000 students accelerate their careers, transition into tech, or launch startups. Le Wagon was founded in 2013 in Paris, and now has in-person campuses in over 40 cities and 25 countries.\u00a0\n Read More",
     "tracks": ["Full Stack Developer", "Front End Developer", "Data Science"],
     "page_link": "https://www.coursereport.com/schools/le-wagon",
-    "courses": [
-      { "course_name": "Data Analytics Bootcamp" },
-      { "course_name": "Data Analytics Bootcamp Online" },
-      { "course_name": "Data Analytics Essentials Skill Course" },
-      { "course_name": "Data Science Bootcamp - Full-time" },
-      { "course_name": "Data Science Bootcamp Online" },
-      { "course_name": "Data Science Bootcamp - Part-time" },
-      { "course_name": "Data Science Bootcamp - Part-time Online" },
-      { "course_name": "Growth & Data Automation Skill Course" },
-      { "course_name": "Python & Machine Learning Skill Course" },
-      { "course_name": "Web Analytics & Tracking Skill Course" },
-      { "course_name": "Web Development Bootcamp - Full-time" },
-      { "course_name": "Web Development Bootcamp Online" },
-      { "course_name": "Web Development Bootcamp - Part-time" },
-      { "course_name": "Web Development Bootcamp - Part-time Online" }
-    ]
+    "courses": [{ "course_name": "Le Wagon Courses" }]
   },
   {
     "name": "Nucamp",
@@ -30,398 +15,126 @@
       "Front End Developer"
     ],
     "page_link": "https://www.coursereport.com/schools/nucamp",
-    "courses": [
-      { "course_name": "Back End, SQL, and DevOps with Python" },
-      { "course_name": "Front End Web and Mobile Development" },
-      { "course_name": "Full Stack Web and Mobile Application Development" },
-      { "course_name": "Job Hunting Bootcamp" },
-      { "course_name": "Web Development Fundamentals" }
-    ]
+    "courses": [{ "course_name": "Nucamp Courses" }]
   },
   {
     "name": "BrainStation",
     "description": "BrainStation offers full-time and part-time courses in data science, design, development, marketing, cyber security and product in New York City, Miami, London, Toronto, Vancouver, and through an Online Live platform. BrainStation\u2019s goal is to empower individuals, businesses, and brands to succeed in the digital age by offering diploma programs, certification courses, and training options across the full digital product lifecycle. BrainStation provides a collaborative, project-based learning experience, with curriculum updated on a daily basis to ensure professionals gain the skills and experience needed to succeed in their careers.\n Read More",
     "tracks": ["Full Stack Developer", "Mobile App Development", "UX Design"],
     "page_link": "https://www.coursereport.com/schools/brainstation",
-    "courses": [
-      { "course_name": "Artificial Intelligence" },
-      { "course_name": "Artificial Intelligence Online" },
-      { "course_name": "Data Analytics" },
-      { "course_name": "Data Analytics Online" },
-      { "course_name": "Data Science" },
-      { "course_name": "Data Science Bootcamp" },
-      { "course_name": "Data Science Bootcamp Online" },
-      { "course_name": "Data Science Online" },
-      { "course_name": "Design Leadership" },
-      { "course_name": "Design Leadership Online" },
-      { "course_name": "Design Thinking" },
-      { "course_name": "Design Thinking Online" },
-      { "course_name": "Digital Marketing" },
-      { "course_name": "Digital Marketing Online" },
-      { "course_name": "Product Leadership" },
-      { "course_name": "Product Leadership Online" },
-      { "course_name": "Product Management" },
-      { "course_name": "Product Management Online" },
-      { "course_name": "Python" },
-      { "course_name": "Python Online" },
-      { "course_name": "Search Engine Marketing" },
-      { "course_name": "Search Engine Marketing Online" },
-      { "course_name": "Social Media Marketing" },
-      { "course_name": "Social Media Marketing Online" },
-      { "course_name": "Software Engineering Bootcamp" },
-      { "course_name": "Software Engineering Bootcamp Online" },
-      { "course_name": "User Experience Design" },
-      { "course_name": "User Experience Design Bootcamp" },
-      { "course_name": "User Experience Design Bootcamp Online" },
-      { "course_name": "User Experience Design Bootcamp Online" },
-      { "course_name": "User Experience Design Online" },
-      { "course_name": "User Interface Design" },
-      { "course_name": "User Interface Design Online" },
-      { "course_name": "Web Development" },
-      { "course_name": "Web Development Bootcamp" },
-      { "course_name": "Web Development Bootcamp Online" },
-      { "course_name": "Web Development Bootcamp Online" },
-      { "course_name": "Web Development Online" }
-    ]
+    "courses": [{ "course_name": "BrainStation Courses" }]
   },
   {
     "name": "Springboard",
     "description": "Springboard is an online learning platform that prepares students for the tech industry\u2019s most in-demand careers with comprehensive, mentor-led online programs in software engineering, data science, UI/UX design, cybersecurity, tech sales, and more. All Springboard courses are 100% online, remote, and self-paced throughout an average of 6-9 months. Springboard acts as a support system, coach, and cheerleader for working professionals who are ready to level-up or make a major career shift. Students have access to a unique community of industry mentors, thought leaders, and alumni, who are on hand to offer insights, networking opportunities, and support throughout the program and well past graduation. Every Springboard student is matched with a personal student advisor and industry mentor who guides them throughout the program through regular video calls.\n Read More",
     "tracks": ["Full Stack Developer", "Tech Sales", "Data Science"],
     "page_link": "https://www.coursereport.com/schools/springboard",
-    "courses": [
-      { "course_name": "Cyber Security Career Track" },
-      { "course_name": "Data Analytics Career Track" },
-      { "course_name": "Data Science Career Track" },
-      { "course_name": "Data Science Career Track Prep" },
-      { "course_name": "Introduction to Data Analytics" },
-      { "course_name": "Introduction to Design" },
-      { "course_name": "Software Engineering Career Track" },
-      { "course_name": "Software Engineering Career Track Prep" },
-      { "course_name": "Tech Sales Career Track" },
-      { "course_name": "UI / UX Design Career Track" },
-      { "course_name": "UX Career Track" },
-      { "course_name": "$1000 Springboard Scholarship" }
-    ]
+    "courses": [{ "course_name": "Springboard Courses" }]
   },
   {
     "name": "CareerFoundry",
     "description": "CareerFoundry is an online bootcamp that offers flexibly paced programs for career changers in web development, UX design, UI design, data analytics, digital marketing, and product management. Headquartered in Berlin but with a global student base, CareerFoundry has provided tech education since 2013.\n Read More",
     "tracks": ["Full Stack Developer", "Product Manager", "Digital Marketing"],
     "page_link": "https://www.coursereport.com/schools/careerfoundry",
-    "courses": [
-      { "course_name": "Data Analytics Program" },
-      { "course_name": "Digital Marketing Program" },
-      { "course_name": "Full-Stack Web Development Program" },
-      { "course_name": "Product Management Program" },
-      { "course_name": "UI Design Program" },
-      { "course_name": "UX Design Program" }
-    ]
+    "courses": [{ "course_name": "CareerFoundry Courses" }]
   },
   {
     "name": "App Academy",
     "description": "Founded in 2012, App Academy is a global coding bootcamp with a focus on software engineering. App Academy offers programs that fit every learning style, including an In-Person Software Engineering Program (16 weeks), a Full-Time Online Software Engineering Program (24 weeks), and a Part-Time Online Software Engineering Program (52 weeks). App Academy alumni have found Software Engineering roles at a range of start-ups and top tech companies.\n Read More",
     "tracks": ["Full Stack Developer", "UX Design", "Front End Developer"],
     "page_link": "https://www.coursereport.com/schools/app-academy",
-    "courses": [
-      { "course_name": "16-Week Software Engineering Program" },
-      {
-        "course_name": "24-Week Online Software Engineering Program (Full Time)"
-      },
-      {
-        "course_name": "48-week Online Software Engineering Program (Part Time)"
-      },
-      { "course_name": "4-week Bootcamp Prep Program" },
-      { "course_name": "Self-Paced Bootcamp Prep Online" },
-      { "course_name": "Self-paced Open Course" }
-    ]
+    "courses": [{ "course_name": "App Academy Courses" }]
   },
   {
     "name": "Ironhack",
     "description": "Ironhack offers full-time and part-time bootcamps in Web Development, UX/UI design, Data Analytics and Cyber Security in Miami (Florida), Madrid and Barcelona (Spain), Paris (France) Mexico City (Mexico), Berlin (Germany), Amsterdam (Netherlands), Sao Paulo (Brazil), Lisbon (Portugal) and remotely. Ironhack uses a customized approach to education by allowing students to shape their experience based on personal goals. Students who graduate from the Web Development Bootcamp will be skilled in technologies like JavaScript, HTML5 and CSS3. The UX/UI program covers Design Thinking, Photoshop, Sketch, Balsamiq, InVision, and JavaScript. Data Analytics covers data wrangling/cleaning, APIs, web scraping, and intermediate topics in Git, MySQL, Python, Data visualization, Panda, and Machine Learning. The Data Analytics program allows students to load, clean, explore and extract valuable insights from datasets and cultivate languages, such as Python, SQL and Tableau. The Cyber Security course provides students with the hands-on skills they need to land a job in the growing cybersecurity industry. In the Cyber Security course, students will develop the most in-demand knowledge to be part of any company's cybersecurity workforce and become a cybersecurity professional.\n Read More",
     "tracks": ["Full Stack Developer", "Data Science", "Front End Developer"],
     "page_link": "https://www.coursereport.com/schools/ironhack",
-    "courses": [
-      { "course_name": "Cyber Security Bootcamp" },
-      { "course_name": "Data Analytics Bootcamp (Full-time)" },
-      { "course_name": "Data Analytics Bootcamp (Part-Time)" },
-      { "course_name": "UX/UI Design Bootcamp (Full-Time)" },
-      { "course_name": "UX/UI Design Course (Part-Time)" },
-      { "course_name": "Web Development Bootcamp (Full-time)" },
-      { "course_name": "Web Development Bootcamp (Part-Time)" }
-    ]
+    "courses": [{ "course_name": "Ironhack Courses" }]
   },
   {
     "name": "Thinkful",
     "description": "Thinkful, a Chegg service, provides every adult learner with a pathway to a rewarding career. This online bootcamp offers fast-paced, career-focused programs in Software Engineering, Data Science, Data Analytics, UX/UI Design, Digital Marketing, and Technical Project Management. These programs are offered in part-time and full-time formats. Students commit 20-25 hours per week in the part-time format, and up to 60 hours in the full-time option. All programs include personal mentor meetings, a custom-built curriculum, and Q sessions with industry professionals.\u00a0\n Read More",
     "tracks": ["Full Stack Developer", "Data Science", "Front End Developer"],
     "page_link": "https://www.coursereport.com/schools/thinkful",
-    "courses": [
-      { "course_name": "Data Analytics Flex" },
-      { "course_name": "Data Analytics Immersion" },
-      { "course_name": "Data Science Flex" },
-      { "course_name": "Digital Marketing Flex" },
-      { "course_name": "Engineering Flex" },
-      { "course_name": "Engineering Immersion" },
-      { "course_name": "Technical Project Management Flex" },
-      { "course_name": "UX/UI Flex" },
-      { "course_name": "UX/UI Immersion" }
-    ]
+    "courses": [{ "course_name": "Thinkful Courses" }]
   },
   {
     "name": "Simplilearn",
     "description": "Simplilearn\u2019s Masters Programs are intensive, online bootcamps for Full Stack Web Development, Data Science and Analytics, AI and Machine Learning, Big Data Cloud Computing, Cyber Security, Project Management, Digital Marketing, among others. Simplilearn\u2019s efforts are focused on helping people acquire the skills they need to thrive in the digital economy. Each bootcamp comprises of live online classes from world-class industry practitioners and highly-rated trainers, integrated online labs, projects, case studies, industry masterclasses and 24/7 support to offer learners the best chance at succeeding in the professional world. This practical and outcomes-focused approach has resulted in 85 percent of learners reporting career benefits including promotion or a new job.\n Read More",
     "tracks": ["Full Stack Developer", "UX Design", "Product Manager"],
     "page_link": "https://www.coursereport.com/schools/simplilearn",
-    "courses": [
-      { "course_name": "Artificial Intelligence Engineer - Master's Program" },
-      { "course_name": "AWS Cloud Architect - Master's Program" },
-      { "course_name": "Big Data Engineer Master's Program" },
-      { "course_name": "Business Analyst - Master's Program" },
-      { "course_name": "Business Analytics with Excel" },
-      { "course_name": "Caltech Cloud Computing Bootcamp" },
-      { "course_name": "Cloud Architect - Master's Program" },
-      { "course_name": "Cyber Security Expert - Master's Program" },
-      { "course_name": "Data Analyst Master's Program" },
-      { "course_name": "Data Science with Python" },
-      { "course_name": "Data Scientist Master's Program" },
-      { "course_name": "Design Thinking Leader - Master's Program" },
-      { "course_name": "DevOps Engineer - Master's Program" },
-      { "course_name": "Digital Marketing 101" },
-      { "course_name": "Digital Marketing Associate Master's Program" },
-      { "course_name": "Digital Marketing Specialist Master's Program" },
-      { "course_name": "Digital Project Manager - Master's Program" },
-      { "course_name": "Ethical Hacking for Beginners" },
-      {
-        "course_name": "Executive Certificate Program in General Management by IIM Indore"
-      },
-      {
-        "course_name": "Executive Certificate Program In General Management (EPGM)"
-      },
-      { "course_name": "Full Stack Java Developer - Master's Program" },
-      {
-        "course_name": "Full Stack Web Developer - MEAN Stack Master's Program"
-      },
-      { "course_name": "Introduction to Artificial Intelligence Course" },
-      { "course_name": "Introduction to Cyber Security" },
-      { "course_name": "Introduction to Data Analytics Course" },
-      { "course_name": "ITIL 4 Managing Professional Master's Program" },
-      { "course_name": "ITIL Capability Expert Master's Program" },
-      { "course_name": "Java Training" },
-      { "course_name": "Lean Six Sigma Expert -Master's Program" },
-      { "course_name": "Machine Learning" },
-      { "course_name": "PMP\u00ae Plus Master's Program" },
-      {
-        "course_name": "Post Graduate Diploma in Management By Jagdish Sheth School of Management"
-      },
-      { "course_name": "Post Graduate Program in Agile" },
-      { "course_name": "Post Graduate Program in AI and Machine Learning" },
-      { "course_name": "Post Graduate Program in Applied Machine Learning" },
-      { "course_name": "Post Graduate Program in Business Analysis" },
-      { "course_name": "Post Graduate Program in Cloud Computing" },
-      { "course_name": "Post Graduate Program in Cyber Security" },
-      { "course_name": "Post Graduate Program in Data Analytics" },
-      { "course_name": "Post Graduate Program in Data Engineering" },
-      { "course_name": "Post Graduate Program in Data Science" },
-      { "course_name": "Post Graduate Program in DevOps" },
-      { "course_name": "Post Graduate Program in Digital Marketing" },
-      { "course_name": "Post Graduate Program in Digital Transformation" },
-      { "course_name": "Post Graduate Program in Full Stack Web Development" },
-      { "course_name": "Post Graduate Program in Lean Six Sigma" },
-      { "course_name": "Post Graduate Program in Project Management" },
-      {
-        "course_name": "Professional Certificate Course In AI And Machine Learning by IIT Kanpur"
-      },
-      {
-        "course_name": "Professional Certificate Course in Data Analytics by IIT Kanpur"
-      },
-      {
-        "course_name": "Professional Certificate Course In Data Science by IIT Kanpur"
-      },
-      {
-        "course_name": "Professional Certification in Product Management by SP Jain"
-      },
-      { "course_name": "Python for Beginners" },
-      {
-        "course_name": "UMass Amherst Post Graduate Program in Project Management"
-      }
-    ]
+    "courses": [{ "course_name": "Simplilearn Courses" }]
   },
   {
     "name": "General Assembly",
     "description": "General Assembly is a technical education provider that teaches students the skills, career advice and networking opportunities needed to make a career change into a tech role, in as little as three months. General Assembly offers bootcamps and courses in web and mobile development, product management, data science and more.\u00a0\n Read More",
     "tracks": ["Full Stack Developer", "Data Science", "Product Manager"],
     "page_link": "https://www.coursereport.com/schools/general-assembly",
-    "courses": [
-      { "course_name": "1. Data Science Immersive Bootcamp (Full Time)" },
-      {
-        "course_name": "2. Software Engineering Immersive Bootcamp (Full Time)"
-      },
-      {
-        "course_name": "3. User Experience Design Immersive Bootcamp (Full Time)"
-      },
-      { "course_name": "4. Data Analytics Immersive Bootcamp (Full Time)" },
-      { "course_name": "Data Analysis On-Demand" },
-      { "course_name": "Data Analytics (Part-Time)" },
-      { "course_name": "Data Science (Part Time)" },
-      { "course_name": "Digital Marketing On-Demand" },
-      { "course_name": "Digital Marketing (Part-time)" },
-      { "course_name": "Front-End Web Development (Part-Time)" },
-      { "course_name": "HTML, CSS & Web Design - On Demand" },
-      { "course_name": "JavaScript Development (Part-time)" },
-      { "course_name": "Product Management (Part-time)" },
-      { "course_name": "Python Programming (Part-Time)" },
-      { "course_name": "React Development Online (Part-Time)" },
-      { "course_name": "Software Engineering Immersive Bootcamp (Flex)" },
-      { "course_name": "User Experience Design On-Demand" },
-      { "course_name": "User Experience Design (Part-Time)" },
-      { "course_name": "Visual Design (Part-time)" },
-      { "course_name": "$1500 Diversity Tuition Discount" },
-      { "course_name": "$1595 Military Tuition Discount" }
-    ]
+    "courses": [{ "course_name": "General Assembly Courses" }]
   },
   {
     "name": "Udacity",
     "description": "Udacity offers Nanodegrees which are online immersive full-time and part-time programs, ranging from 12-24 weeks in length for students worldwide. Nanodegree courses are available in subjects like data science, artificial intelligence, programming, autonomous systems, business, and cloud computing. Udacity's approach to talent transformation incorporates projects based on real-world scenarios, guided by personalized mentor support with a focus on in-demand digital competencies in areas like AI, cloud computing, cybersecurity, programming, data science, and more. The custom learning program enables students to learn at their own pace, and manage monthly payments for their programs to fit their budgets.\u00a0\n Read More",
     "tracks": ["Full Stack Developer", "Cyber Security", "Data Science"],
     "page_link": "https://www.coursereport.com/schools/udacity",
-    "courses": [
-      { "course_name": "AI Product Manager" },
-      { "course_name": "AI Programming with Python" },
-      { "course_name": "Android Basics" },
-      { "course_name": "Android Developer" },
-      { "course_name": "Artificial Intelligence" },
-      { "course_name": "Artificial Intelligence for Trading" },
-      { "course_name": "Blockchain Developer" },
-      { "course_name": "Business Analytics" },
-      { "course_name": "C++" },
-      { "course_name": "Cloud Developer" },
-      { "course_name": "Cloud DevOps Engineer" },
-      { "course_name": "Computer Vision" },
-      { "course_name": "Data Analyst" },
-      { "course_name": "Data Engineer" },
-      { "course_name": "Data Scientist" },
-      { "course_name": "Data Streaming" },
-      { "course_name": "Data Visualization" },
-      { "course_name": "Deep Learning" },
-      { "course_name": "Deep Reinforcement Learning" },
-      { "course_name": "Digital Marketer" },
-      { "course_name": "Flying Car and Autonomous Flight Engineer" },
-      { "course_name": "Front End Web Developer" },
-      { "course_name": "Full Stack Web Developer" },
-      { "course_name": "Introduction to Machine Learning" },
-      { "course_name": "Introduction to Programming" },
-      { "course_name": "Introduction to Self-Driving Car" },
-      { "course_name": "iOS Developer" },
-      { "course_name": "Java Developer" },
-      { "course_name": "Machine Learning Engineer" },
-      { "course_name": "Marketing Analytics" },
-      { "course_name": "Natural Language Processing" },
-      { "course_name": "Predictive Analytics for Business" },
-      { "course_name": "Programming for Data Science with Python" },
-      { "course_name": "Programming for Data Science with R" },
-      { "course_name": "React Developer" },
-      { "course_name": "Robotics Software Engineer" },
-      { "course_name": "Self-Driving Car Engineer" },
-      { "course_name": "Sensor Fusion Engineer" },
-      { "course_name": "UX Designer" },
-      { "course_name": "Scholarship: $50 off Udacity Nanodegrees" }
-    ]
+    "courses": [{ "course_name": "Udacity Courses" }]
   },
   {
     "name": "Coding Dojo",
     "description": "Founded in 2012, Coding Dojo is a global technology education company that offers programs in Software Development, Data Science, and Cybersecurity.\u00a0Students can choose to learn coding languages in Python, JavaScript, Java and C#/.NET Core, dig deeper into data and visualization in Python, and be mission-ready to defend in Cybersecurity. In addition to an extensive curriculum, students collaborate with peers, join interactive lectures with instructors, have unlimited support from career services, and access to Teaching Assistants seven days a week.\u00a0\n Read More",
     "tracks": ["Full Stack Developer", "Cyber Security", "Front End Developer"],
     "page_link": "https://www.coursereport.com/schools/coding-dojo",
-    "courses": [
-      { "course_name": "Cybersecurity Online Part-Time Bootcamp" },
-      {
-        "course_name": "Data Science & Machine Learning Online Part-Time Bootcamp"
-      },
-      {
-        "course_name": "Data Science & Visualization Part-Time Online Bootcamp"
-      },
-      { "course_name": "Software Development Online Full-Time" },
-      { "course_name": "Software Development Online Part-Time Accelerated" },
-      { "course_name": "Software Development Online Part-Time Flex" }
-    ]
+    "courses": [{ "course_name": "Coding Dojo Courses" }]
   },
   {
     "name": "Edureka",
     "description": "Edureka offers instructor-led, live online bootcamps in Full Stack Web Development (8 weeks) and AI  Machine Learning (44 weeks). The Full Stack Web Development bootcamp is completed in 8 weeks, and requires a time commitment of 20-30 hours per week. The AI  Machine Learning bootcamp is completed in 44 weeks, and requires a time commitment of 8-10 hours per week.\u00a0\n Read More",
     "tracks": ["Full Stack Developer", "Data Science"],
     "page_link": "https://www.coursereport.com/schools/edureka",
-    "courses": [
-      { "course_name": "AI & Machine Learning" },
-      { "course_name": "Full Stack Web Development" }
-    ]
+    "courses": [{ "course_name": "Edureka Courses" }]
   },
   {
     "name": "Flatiron School",
     "description": "Flatiron School offers immersive on-campus and online programs in software engineering, data science, cybersecurity, and product design (UX/UI design). Flatiron School\u2019s immersive courses aim to launch students into fulfilling careers by providing a robust career services framework and dedicated one-on-one coaching post graduation that is included as an added value with the tuition.\u00a0\n Read More",
     "tracks": ["Full Stack Developer", "Data Science", "Cyber Security"],
     "page_link": "https://www.coursereport.com/schools/flatiron-school",
-    "courses": [
-      { "course_name": "Cybersecurity Engineering" },
-      { "course_name": "Data Science" },
-      { "course_name": "Product Design (UX/UI Design)" },
-      { "course_name": "Software Engineering" }
-    ]
+    "courses": [{ "course_name": "Flatiron School Courses" }]
   },
   {
     "name": "Codesmith",
     "description": "Codesmith is a coding school redefining the way software engineering is taught. Codesmith offers full-time (13-week) and part-time (38-week) remote software engineering immersive programs as well as a full-time NYC Onsite program. Codesmith focuses on concepts and technologies such as full-stack JavaScript, computer science, machine learning, Dev Ops, React, and more. The immersives are\u00a0advanced residencies designed to help individuals launch meaningful, high-level careers in software engineering.\u00a0\n Read More",
     "tracks": ["Full Stack Developer", "Front End Developer"],
     "page_link": "https://www.coursereport.com/schools/codesmith",
-    "courses": [
-      { "course_name": "CS Prep" },
-      { "course_name": "Full-Time Remote Software Engineering Immersive" },
-      {
-        "course_name": "Global Part-Time Remote Software Engineering Immersive"
-      },
-      { "course_name": "JavaScript for Beginners" },
-      { "course_name": "NYC Onsite Software Engineering Immersive" }
-    ]
+    "courses": [{ "course_name": "Codesmith Courses" }]
   },
   {
     "name": "Actualize",
     "description": "Actualize is a 12-week software development bootcamp in Chicago and online throughout the US, offering both part-time and full-time options. Instructors with professional educational experience teach students full stack web development including Ruby, Rails, JavaScript, VueJS, SQL, and Git. Both the in-person and online programs use the same immersive, instruction-driven curriculum, with the Online Live classes conducted in real time with video conferencing. Actualize has a deeply integrated \u201cJob Hacking\u201d curriculum focused on the personal branding and networking skills necessary to land a new job, which Actualize feels is just as important as learning to code.\n Read More",
     "tracks": ["Full Stack Developer"],
     "page_link": "https://www.coursereport.com/schools/actualize",
-    "courses": [{ "course_name": "Web Development" }]
+    "courses": [{ "course_name": "Actualize Courses" }]
   },
   {
     "name": "Tech Elevator",
     "description": "Tech Elevator offers both full-time and part-time coding bootcamps that prepare\u00a0students for a career as a software developer, starting with an Aptitude Test. Applicants can then choose to study Java or .NET. Throughout the bootcamp, students also learn HTML, CSS, SQL, API, and JavaScript. The full-time bootcamp runs for 14 weeks, Monday through Friday, 9-4:30 pm, and the part-time bootcamp runs for 30-weeks with a mix of independent study, live lectures and small-group programming. Both programs have a low student-to-instructor ratio to ensure the best supportive environment for participants. Tech Elevator\u2019s instruction is delivered both remotely and in-person at campuses located in Cincinnati, Cleveland, Columbus, Charlotte, Chicago, Dallas, Detroit, Philadelphia, Pittsburgh and Wilmington. Tech Elevator also offers students beyond its core markets, and throughout North America, class options through its National Live Remote program.\n\n Read More",
     "tracks": ["Full Stack Developer"],
     "page_link": "https://www.coursereport.com/schools/tech-elevator",
-    "courses": [
-      { "course_name": "Full-Time Java Coding Bootcamp - In-person" },
-      { "course_name": "Full-Time Java Coding Bootcamp - Remote" },
-      { "course_name": "Full-Time .NET/C# Coding Bootcamp - In-person" },
-      { "course_name": "Part-Time Java Coding Bootcamp - Remote" }
-    ]
+    "courses": [{ "course_name": "Tech Elevator Courses" }]
   },
   {
     "name": "Skillcrush",
     "description": "Skillcrush is a woman-owned, independent, online coding  design school founded in 2012. Skillcrush offers both free and paid programs, including the self-paced Break Into Tech + Job Guarantee program, which prepares students for entry-level positions in front end development and design. Skillcrush is on a mission to empower career changers \u2014 with a special focus on women and BIPOC \u2014 with the technical skills they need to transition into higher-earning, more fulfilling and flexible careers in tech.\n Read More",
     "tracks": ["Full Stack Developer", "Front End Developer", "UX Design"],
     "page_link": "https://www.coursereport.com/schools/skillcrush",
-    "courses": [
-      {
-        "course_name": "(1) Break Into Tech Program + Job Guarantee: Front End Developer Track"
-      },
-      {
-        "course_name": "(2) Break Into Tech Program + Job Guarantee: UI/UX Designer Track"
-      }
-    ]
+    "courses": [{ "course_name": "Skillcrush Courses" }]
   },
   {
     "name": "Makers Academy",
     "description": "Makers Academy is a highly selective, 16-week, full-time program which teaches web development online and in hybrid cohorts at their campus in London, England. Makers Academy is creating a new generation of tech talent who are skilled and ready for the changing world of work. The academy is inspired by the idea of discovering and unlocking potential in people for the benefit of the 21st-century business and society. At the core, Makers combines tech education with employment possibilities that transform lives. The academy accepts only exceptional applicants into the course. While they are highly selective, they focus on a student's passion for becoming a developer by gauging their coding experience. Makers Academy also offers apprenticeships in Software Engineering and DevOps.\n Read More",
     "tracks": ["Full Stack Developer"],
     "page_link": "https://www.coursereport.com/schools/makers-academy",
-    "courses": [{ "course_name": "Web Development" }]
+    "courses": [{ "course_name": "Makers Academy Courses" }]
   },
   {
     "name": "The Tech Academy",
@@ -432,45 +145,7 @@
       "Data Science"
     ],
     "page_link": "https://www.coursereport.com/schools/the-tech-academy",
-    "courses": [
-      { "course_name": "Online C# and .NET Framework Boot Camp (full-time)" },
-      { "course_name": "Online C# and .NET Framework Boot Camp (part-time)" },
-      { "course_name": "Online Cyber Security Boot Camp (full-time)" },
-      { "course_name": "Online Cyber Security Boot Camp (part-time)" },
-      { "course_name": "Online Data Science Boot Camp (full-time)" },
-      { "course_name": "Online Data Science Boot Camp (part-time)" },
-      { "course_name": "Online Front-End Web Developer Boot Camp (full-time)" },
-      { "course_name": "Online Front-End Web Developer Boot Camp (part-time)" },
-      { "course_name": "Online Game Developer Boot Camp (full-time)" },
-      { "course_name": "Online Game Developer Boot Camp (part-time)" },
-      {
-        "course_name": "Online Java and Android Developer Boot Camp (full-time)"
-      },
-      {
-        "course_name": "Online Java and Android Developer Boot Camp (part-time)"
-      },
-      { "course_name": "Online JavaScript Developer Boot Camp (full-time)" },
-      { "course_name": "Online JavaScript Developer Boot Camp (part-time)" },
-      { "course_name": "Online Mobile App Developer Boot Camp (full-time)" },
-      { "course_name": "Online Mobile App Developer Boot Camp (part-time)" },
-      { "course_name": "Online Python Developer Boot Camp (full-time)" },
-      { "course_name": "Online Python Developer Boot Camp (part-time)" },
-      { "course_name": "Online Software Developer Boot Camp (full-time)" },
-      { "course_name": "Online Software Developer Boot Camp (part-time)" },
-      { "course_name": "Online UI/UX Designer Boot Camp (full-time)" },
-      { "course_name": "Online UI/UX Designer Boot Camp (part-time)" },
-      { "course_name": "Self-Paced C# and .NET Framework Boot Camp" },
-      { "course_name": "Self-Paced Cyber Security Boot Camp" },
-      { "course_name": "Self-Paced Data Science Boot Camp" },
-      { "course_name": "Self-Paced Front-End Web Developer Boot Camp" },
-      { "course_name": "Self-Paced Game Developer Boot Camp" },
-      { "course_name": "Self-Paced Java and Android Developer Boot Camp" },
-      { "course_name": "Self-Paced JavaScript Developer Boot Camp" },
-      { "course_name": "Self-Paced Mobile App Developer" },
-      { "course_name": "Self-Paced Python Developer Boot Camp" },
-      { "course_name": "Self-Paced Software Developer Boot Camp" },
-      { "course_name": "Self-Paced UI/UX Designer Boot Camp" }
-    ]
+    "courses": [{ "course_name": "The Tech Academy Courses" }]
   },
   {
     "name": "Fullstack Academy",
@@ -481,111 +156,34 @@
       "Front End Developer"
     ],
     "page_link": "https://www.coursereport.com/schools/fullstack-academy",
-    "courses": [
-      {
-        "course_name": "Fullstack Academy Cybersecurity Analytics Bootcamp (Full-Time)"
-      },
-      {
-        "course_name": "Fullstack Academy Cybersecurity Analytics Bootcamp (Part-Time)"
-      },
-      { "course_name": "Fullstack Academy Product Management Bootcamp" },
-      {
-        "course_name": "Fullstack Academy Software Engineering Immersive (Full-Time)"
-      },
-      {
-        "course_name": "Fullstack Academy Software Engineering Immersive (Part-Time)"
-      },
-      { "course_name": "Fullstack Data Analytics Bootcamp (Full-Time)" },
-      { "course_name": "Fullstack Data Analytics Bootcamp (Part-Time)" },
-      {
-        "course_name": "Future Code: Diversifying the Future of Web Development in NYC at Fullstack Academy"
-      },
-      { "course_name": "Hacking 101" },
-      { "course_name": "Intro to Coding" },
-      { "course_name": "Online Data Analyst Training Accelerator Program" }
-    ]
+    "courses": [{ "course_name": "Fullstack Academy Courses" }]
   },
   {
     "name": "Clarusway",
     "description": "Virginia-based IT training school, Clarusway offers online bootcamps in three main program tracks: AWS DevOPs, Full Stack Development, and Data Science. Bootcamps can be completed in 24-36 weeks depending on the student\u2019s incoming skill level. Clarusway is committed to helping individuals attain practical knowledge through affordable and effective IT training programs. Clarusway programs include mentorship programs, peer-learning, and project-based group study methods. Students gain requisite classroom knowledge paired with the necessary hands-on skills demanded by today\u2019s tech industry.\u00a0\u00a0\n Read More",
     "tracks": ["Full Stack Developer", "Cyber Security", "Data Science"],
     "page_link": "https://www.coursereport.com/schools/clarusway",
-    "courses": [
-      { "course_name": "AWS Solutions Architect" },
-      { "course_name": "AWS Solutions Architect/DevOps Engineer" },
-      { "course_name": "Back End Development" },
-      { "course_name": "Blockchain & Web 3.0 Development" },
-      { "course_name": "CompTIA Security+ Certificate Training" },
-      { "course_name": "Cyber Security Analyst Professional" },
-      { "course_name": "Data Analytics (Premium)" },
-      { "course_name": "Data Analytics with Prep for DS" },
-      {
-        "course_name": "Data Science - Premium Full Time/Part Time with Limited Seats"
-      },
-      { "course_name": "DevOps Engineer" },
-      { "course_name": "Front End Development" },
-      { "course_name": "Full Stack Development" },
-      {
-        "course_name": "Full Stack Web Development - Premium Full Time/Part Time with Limited Seats"
-      },
-      { "course_name": "Kubernetes CKAD" },
-      { "course_name": "Machine Learning/Deep Learning" },
-      { "course_name": "Machine Learning/Deep Learning (Premium)" },
-      { "course_name": "React Development" },
-      { "course_name": "Salesforce Administrator & Developer" },
-      { "course_name": "Salesforce Advanced Flow Course" },
-      { "course_name": "Security Operation Center (SOC) Experience" },
-      { "course_name": "Software Development Engineer in Test (SDET)" },
-      { "course_name": "$500 Clarusway Scholarship" }
-    ]
+    "courses": [{ "course_name": "Clarusway Courses" }]
   },
   {
     "name": "Devmountain",
     "description": "Devmountain is a coding bootcamp that offers short, full-time in-person programs designed to prepare students for entry-level positions in the tech industry. There are Devmountain campuses in Lehi, Utah; Dallas, Houston, San Antonio, Fort Worth, Killeen, Texas; and Cobb County and Lithonia, Georgia. Devmountain also offers online courses.\n Read More",
     "tracks": ["Full Stack Developer", "Mobile App Development", "UX Design"],
     "page_link": "https://www.coursereport.com/schools/devmountain",
-    "courses": [
-      { "course_name": "Coding Basics" },
-      { "course_name": "Data Analytics" },
-      { "course_name": "iOS Development Full-Time" },
-      { "course_name": "Java Software Engineering" },
-      { "course_name": "Python Software Engineering" },
-      { "course_name": "Software QA Testing Full-Time" },
-      { "course_name": "Software Testing QA Part-Time" },
-      { "course_name": "UI/UX Design After Hours" },
-      { "course_name": "UX Design Full-Time" },
-      { "course_name": "Web Development After Hours" },
-      { "course_name": "Web Development Full-Time" }
-    ]
+    "courses": [{ "course_name": "Devmountain Courses" }]
   },
   {
     "name": "DigitalCrafts",
     "description": "DigitalCrafts offers full-time and part-time online bootcamps in Web Development, Cybersecurity, and UX Design. All classes are taught online by live instructors, and WeWork memberships are included at no additional charge for students needing a place to study.\n Read More",
     "tracks": ["Full Stack Developer", "Front End Developer", "Cyber Security"],
     "page_link": "https://www.coursereport.com/schools/digitalcrafts",
-    "courses": [
-      { "course_name": "Cybersecurity (Full-Time, Online)" },
-      { "course_name": "Cybersecurity (Part Time, Online)" },
-      { "course_name": "UX Design (Part-Time, Online)" },
-      {
-        "course_name": "Web Development (Full-time, Online or Atlanta Campus)"
-      },
-      { "course_name": "Web Development (Part-Time, Online or Atlanta Campus)" }
-    ]
+    "courses": [{ "course_name": "DigitalCrafts Courses" }]
   },
   {
     "name": "Hack Reactor",
     "description": "Hack Reactor by Galvanize is an educator for rapid career transformation, offering software engineering bootcamps designed so that anyone with motivation can succeed, regardless of education, experience, or background. Hack Reactor by Galvanize bootcamps are challenging and designed to fit a student\u2019s schedule and skill level. Bootcamps include a 19-Week Software Engineering Immersive with JavaScript and Python, designed for beginners, as well as a 12-Week Software Engineering Immersive.\u00a0\n Read More",
     "tracks": ["Full Stack Developer"],
     "page_link": "https://www.coursereport.com/schools/hack-reactor",
-    "courses": [
-      { "course_name": "12-Week Software Engineering Online Immersive" },
-      {
-        "course_name": "19-Week Software Engineering Immersive with JavaScript & Python"
-      },
-      {
-        "course_name": "38-Week Part-Time Software Engineering Immersive with JavaScript & Typescript"
-      }
-    ]
+    "courses": [{ "course_name": "Hack Reactor Courses" }]
   }
 ]
