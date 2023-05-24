@@ -1,27 +1,91 @@
 [
-  { "name": "Le Wagon" },
-  { "name": "Nucamp" },
-  { "name": "BrainStation" },
-  { "name": "Springboard" },
-  { "name": "CareerFoundry" },
-  { "name": "App Academy" },
-  { "name": "Ironhack" },
-  { "name": "Thinkful" },
-  { "name": "Simplilearn" },
-  { "name": "General Assembly" },
-  { "name": "Udacity" },
-  { "name": "Coding Dojo" },
-  { "name": "Edureka" },
-  { "name": "Flatiron School" },
-  { "name": "Codesmith" },
-  { "name": "Actualize" },
-  { "name": "Tech Elevator" },
-  { "name": "Skillcrush" },
-  { "name": "Makers Academy" },
-  { "name": "The Tech Academy" },
-  { "name": "Fullstack Academy" },
-  { "name": "Clarusway" },
-  { "name": "Devmountain" },
-  { "name": "DigitalCrafts" },
-  { "name": "Hack Reactor" }
+  {
+    "name": "Le Wagon",
+    "tracks": ["Full Stack Developer", "Front End Developer", "Data Science"]
+  },
+  {
+    "name": "Nucamp",
+    "tracks": [
+      "Full Stack Developer",
+      "Mobile App Development",
+      "Front End Developer"
+    ]
+  },
+  {
+    "name": "BrainStation",
+    "tracks": ["Full Stack Developer", "Mobile App Development", "UX Design"]
+  },
+  {
+    "name": "Springboard",
+    "tracks": ["Full Stack Developer", "Tech Sales", "Data Science"]
+  },
+  {
+    "name": "CareerFoundry",
+    "tracks": ["Full Stack Developer", "Product Manager", "Digital Marketing"]
+  },
+  {
+    "name": "App Academy",
+    "tracks": ["Full Stack Developer", "UX Design", "Front End Developer"]
+  },
+  {
+    "name": "Ironhack",
+    "tracks": ["Full Stack Developer", "Data Science", "Front End Developer"]
+  },
+  {
+    "name": "Thinkful",
+    "tracks": ["Full Stack Developer", "Data Science", "Front End Developer"]
+  },
+  {
+    "name": "Simplilearn",
+    "tracks": ["Full Stack Developer", "UX Design", "Product Manager"]
+  },
+  {
+    "name": "General Assembly",
+    "tracks": ["Full Stack Developer", "Data Science", "Product Manager"]
+  },
+  {
+    "name": "Udacity",
+    "tracks": ["Full Stack Developer", "Cyber Security", "Data Science"]
+  },
+  {
+    "name": "Coding Dojo",
+    "tracks": ["Full Stack Developer", "Cyber Security", "Front End Developer"]
+  },
+  { "name": "Edureka", "tracks": ["Full Stack Developer", "Data Science"] },
+  {
+    "name": "Flatiron School",
+    "tracks": ["Full Stack Developer", "Data Science", "Cyber Security"]
+  },
+  {
+    "name": "Codesmith",
+    "tracks": ["Full Stack Developer", "Front End Developer"]
+  },
+  { "name": "Actualize", "tracks": ["Full Stack Developer"] },
+  { "name": "Tech Elevator", "tracks": ["Full Stack Developer"] },
+  {
+    "name": "Skillcrush",
+    "tracks": ["Full Stack Developer", "Front End Developer", "UX Design"]
+  },
+  { "name": "Makers Academy", "tracks": ["Full Stack Developer"] },
+  {
+    "name": "The Tech Academy",
+    "tracks": ["Full Stack Developer", "Mobile App Development", "Data Science"]
+  },
+  {
+    "name": "Fullstack Academy",
+    "tracks": ["Full Stack Developer", "Product Manager", "Front End Developer"]
+  },
+  {
+    "name": "Clarusway",
+    "tracks": ["Full Stack Developer", "Cyber Security", "Data Science"]
+  },
+  {
+    "name": "Devmountain",
+    "tracks": ["Full Stack Developer", "Mobile App Development", "UX Design"]
+  },
+  {
+    "name": "DigitalCrafts",
+    "tracks": ["Full Stack Developer", "Front End Developer", "Cyber Security"]
+  },
+  { "name": "Hack Reactor", "tracks": ["Full Stack Developer"] }
 ]
