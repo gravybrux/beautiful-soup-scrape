@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from urllib.parse import urljoin
+import concurrent.futures
 
 base_url = 'https://www.coursereport.com'
 url_path = '/tracks/full-stack-developer'
@@ -72,9 +73,11 @@ def extract_data():
 
         description = description_div.text.strip() if description_div else ""
 
-        courses = extract_courses(page_link)
+        data.append({'name': h3.text.strip(), 'description': description, 'tracks': tracks, 'page_link': page_link})
 
-        data.append({'name': h3.text.strip(), 'description': description, 'tracks': tracks, 'page_link': page_link, 'courses': courses})
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        for item, courses in zip(data, executor.map(extract_courses, [item['page_link'] for item in data])):
+            item['courses'] = courses
 
     return data
 
